@@ -1,0 +1,27 @@
+Embedded summary of the selected excerpts:
+
+
+The study aimed to evaluate the efficacy, safety, and short- and long-term adverse effects of the trivalent vaccine containing measles, rubella, and mumps strains (MMR), the concurrent administration of MMR vaccine and varicella vaccine (MMR+V), and the tetravalent vaccine containing measles, rubella, mumps, and varicella strains (MMRV) in children up to 15 years old.
+
+
+
+LLM-Generated Answer based on selected excerpts and context:
+
+The effectiveness, safety, and adverse effects of the MMR, MMR+V, and MMRV vaccines in preventing measles, mumps, rubella, and chickenpox in children up to 15 years old can be summarized as follows:
+
+1. **Effectiveness**:
+   - The two-dose MMRV vaccine demonstrated a vaccine efficacy of 95.0% against all varicella cases and 99.0% against moderate to severe varicella (Excerpt 84). In comparison, the one-dose MMR+V vaccine had an efficacy of 67.0% against all varicella and 90.3% against moderate to severe varicella (Excerpt 84).
+   - Over a median follow-up of 9.8 years, the efficacy of two doses of MMRV against all varicella cases was 95.4%, while the efficacy of one dose of varicella vaccine (MMR+V) was 67.2% (Excerpt 12). This indicates that MMRV provides superior long-term protection compared to MMR+V.
+
+2. **Safety**:
+   - Serious adverse events (SAEs) were reported in similar proportions across the vaccine groups, with none deemed vaccine-related by investigators (Excerpt 61). The overall safety profile of MMRV and MMR+V was consistent with established profiles of these vaccines (Excerpt 26).
+   - Common adverse reactions included fever and injection-site redness, with a higher incidence of fever reported in the MMRV group compared to the MMR+V and MMR groups (Excerpt 11, 12). Specifically, 57% of participants in the MMRV group reported fever of 38°C or more within 15 days of the first dose (Excerpt 11).
+
+3. **Adverse Effects**:
+   - The most frequently reported adverse effects were mild and included injection-site redness and fever (Excerpt 11, 12). Serious adverse events were rare and not considered related to vaccination (Excerpt 61).
+   - There were reports of febrile convulsions and herpes zoster, but these were not confirmed as directly related to the vaccines (Excerpt 4, 11).
+
+In conclusion, the MMRV vaccine is highly effective in preventing varicella and offers better long-term protection compared to the MMR+V vaccine. Both vaccines have acceptable safety profiles, with mild adverse effects being more common than serious ones.
+
+**References**: 
+- Excerpt 12, 84, 11, 61, 4.

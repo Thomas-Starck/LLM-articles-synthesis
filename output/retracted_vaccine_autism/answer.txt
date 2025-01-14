@@ -1,0 +1,21 @@
+Embedded summary of the selected excerpts:
+
+The context information does not definitively prove a causal link between the MMR vaccine and autism. Studies mentioned in the text are investigating this potential association, but as of now, there is no conclusive evidence to support the claim that the MMR vaccine causes autism.
+
+
+
+LLM-Generated Answer based on selected excerpts and context:
+
+Based on the excerpts provided, there is no definitive evidence to support the claim that the MMR vaccine causes autism. While some excerpts mention associations between the MMR vaccine and the onset of behavioral symptoms in children diagnosed with autism, they do not establish a causal link. For instance, Excerpt 2 notes that "we did not prove an association between measles, mumps, and rubella vaccine and the syndrome described," indicating that the evidence is insufficient to confirm a direct cause-and-effect relationship. Additionally, Excerpt 4 references studies that do not provide clear evidence for or against an increase in prevalence of autism related to vaccination.
+
+In summary, while there are observations of behavioral changes following MMR vaccination, the excerpts do not provide conclusive evidence that the MMR vaccine causes autism. 
+
+Supporting excerpts: 
+- Excerpt 2: "We did not prove an association between measles, mumps, and rubella vaccine and the syndrome described."
+- Excerpt 4: "no evidence for or against an increase in prevalence."
+
+
+
+Original author's systematic review summary':
+
+

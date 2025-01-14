@@ -1,0 +1,13 @@
+# Files to be ignored for commiting
+
+
+# .env file not to be commited as it stores the API key
+.env
+
+# Files specific to mac storage, do not commit
+.DS_Store
+
+# Files specific to local IDE parameters, do not commit
+.idea/
+.spyproject/
+__pycache__/
